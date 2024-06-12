@@ -52,3 +52,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help
 help type
 type echo
+type read
